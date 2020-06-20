@@ -1,5 +1,5 @@
 # Giant Panda Facts
-he giant panda is one of the world's eight species of true bears.
+The giant panda is one of the world's eight species of true bears.
 Although for a number of decades there was some controversy over whether the panda was actually a bear at all, the recent consensus is that the panda is, in fact, all bear. 
 Some scientists argued that the giant panda and the red panda which share many characteristics were both more closely related to raccoons than bears. Closer study of the giant pandas molecular structure, however, puts them in the family ursidae - the true bears.
 Giant pandas live in the densely vegetated mountains of central China, where mist, heavy rains, and high humidity promote thick forests.
